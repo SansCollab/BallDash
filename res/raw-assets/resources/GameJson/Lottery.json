@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n3500",
+    "rewardtype": "1",
+    "rewardcount": 3500
+  },
+  {
+    "id": "2",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n4080",
+    "rewardtype": "1",
+    "rewardcount": "4080"
+  },
+  {
+    "id": "3",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n4650",
+    "rewardtype": "1",
+    "rewardcount": "4650"
+  },
+  {
+    "id": "4",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n5210",
+    "rewardtype": "1",
+    "rewardcount": "5210"
+  },
+  {
+    "id": "5",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n5760",
+    "rewardtype": "1",
+    "rewardcount": "5760"
+  },
+  {
+    "id": "6",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n6300",
+    "rewardtype": "1",
+    "rewardcount": "6300"
+  },
+  {
+    "id": "7",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n6830",
+    "rewardtype": "1",
+    "rewardcount": "6830"
+  },
+  {
+    "id": "8",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n7350",
+    "rewardtype": "1",
+    "rewardcount": "7350"
+  },
+  {
+    "id": "9",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n7860",
+    "rewardtype": "1",
+    "rewardcount": "7860"
+  },
+  {
+    "id": "10",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n8360",
+    "rewardtype": "1",
+    "rewardcount": "8360"
+  },
+  {
+    "id": "11",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n8850",
+    "rewardtype": "1",
+    "rewardcount": "8850"
+  },
+  {
+    "id": "12",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n9330",
+    "rewardtype": "1",
+    "rewardcount": "9330"
+  },
+  {
+    "id": "13",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n9800",
+    "rewardtype": "1",
+    "rewardcount": "9800"
+  },
+  {
+    "id": "14",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n10260",
+    "rewardtype": "1",
+    "rewardcount": "10260"
+  },
+  {
+    "id": "15",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n10710",
+    "rewardtype": "1",
+    "rewardcount": "10710"
+  },
+  {
+    "id": "16",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n11150",
+    "rewardtype": "1",
+    "rewardcount": "11150"
+  },
+  {
+    "id": "17",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n11580",
+    "rewardtype": "1",
+    "rewardcount": "11580"
+  },
+  {
+    "id": "18",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n12000",
+    "rewardtype": "1",
+    "rewardcount": "12000"
+  },
+  {
+    "id": "19",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n12410",
+    "rewardtype": "1",
+    "rewardcount": "12410"
+  },
+  {
+    "id": "20",
+    "node": "奖励金币",
+    "icon": "icon_reward_3",
+    "rewardinfo": "gold\n12810",
+    "rewardtype": "1",
+    "rewardcount": "12810"
+  },
+  {
+    "id": "51",
+    "node": "球皮肤2",
+    "icon": "role_player_2",
+    "rewardinfo": "new skin",
+    "rewardtype": "2",
+    "rewardcount": 2
+  },
+  {
+    "id": "52",
+    "node": "球皮肤3",
+    "icon": "role_player_3",
+    "rewardinfo": "new skin",
+    "rewardtype": "2",
+    "rewardcount": 3
+  },
+  {
+    "id": "53",
+    "node": "球皮肤4",
+    "icon": "role_player_4",
+    "rewardinfo": "new skin",
+    "rewardtype": "2",
+    "rewardcount": 4
+  },
+  {
+    "id": "54",
+    "node": "球皮肤5",
+    "icon": "role_player_5",
+    "rewardinfo": "new skin",
+    "rewardtype": "2",
+    "rewardcount": 5
+  },
+  {
+    "id": "55",
+    "node": "球皮肤6",
+    "icon": "role_player_6",
+    "rewardinfo": "new skin",
+    "rewardtype": "2",
+    "rewardcount": 6
+  },
+  {
+    "id": "56",
+    "node": "球皮肤7",
+    "icon": "role_player_7",
+    "rewardinfo": "new skin",
+    "rewardtype": "2",
+    "rewardcount": 7
+  },
+  {
+    "id": "101",
+    "node": "双倍初始速度",
+    "icon": "icon_reward_1",
+    "rewardinfo": "Double the initial speed for the next flight.",
+    "rewardtype": "3",
+    "rewardcount": "--"
+  },
+  {
+    "id": "102",
+    "node": "双倍火箭冲刺",
+    "icon": "icon_reward_2",
+    "rewardinfo": "Get a double rocket sprint for the next flight.",
+    "rewardtype": "4",
+    "rewardcount": "--"
+  },
+  {
+    "id": "103",
+    "node": "双倍奖励",
+    "icon": "icon_reward_3",
+    "rewardinfo": "Get double gold in the next flight.",
+    "rewardtype": "5",
+    "rewardcount": "--"
+  },
+  {
+    "id": "104",
+    "node": "续一秒",
+    "icon": "icon_reward_4",
+    "rewardinfo": "Get an extra boot opportunity on your next flight",
+    "rewardtype": "6",
+    "rewardcount": "--"
+  }
+]

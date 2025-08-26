@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "默认皮肤",
+    "res": "role_player_1",
+    "toget": "4,0"
+  },
+  {
+    "id": "2",
+    "name": "皮肤1",
+    "res": "role_player_2",
+    "toget": "4,0"
+  },
+  {
+    "id": "3",
+    "name": "皮肤2",
+    "res": "role_player_3",
+    "toget": "4,0"
+  },
+  {
+    "id": "4",
+    "name": "皮肤3",
+    "res": "role_player_4",
+    "toget": "4,0"
+  },
+  {
+    "id": "5",
+    "name": "皮肤4",
+    "res": "role_player_5",
+    "toget": "4,0"
+  },
+  {
+    "id": "6",
+    "name": "皮肤5",
+    "res": "role_player_6",
+    "toget": "4,0"
+  },
+  {
+    "id": "7",
+    "name": "皮肤6",
+    "res": "role_player_7",
+    "toget": "4,0"
+  },
+  {
+    "id": "8",
+    "name": "皮肤7",
+    "res": "role_player_8",
+    "toget": "4,0"
+  }
+]

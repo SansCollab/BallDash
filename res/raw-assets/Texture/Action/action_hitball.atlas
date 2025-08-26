@@ -1,0 +1,20 @@
+
+action_hitball.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+action_hitball
+  rotate: true
+  xy: 2, 36
+  size: 24, 148
+  orig: 28, 152
+  offset: 2, 2
+  index: -1
+qiu
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
